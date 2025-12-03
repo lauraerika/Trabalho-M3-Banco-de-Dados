@@ -1,0 +1,34 @@
+blocos de textos para testar os comandos
+
+create_artista:
+
+{
+    "nome_artista": "Deftones",
+    "pais": "Estados Unidos",
+    "streamings_mensal": 16000000
+}
+
+create_musica:
+
+{
+    "nome_musica": "Be Quiet and Drive (Far way)",
+    "streamings_numero": 459260482,
+    "duracao": "00:04:59",
+    "id_album": 1
+}
+
+create_genero:
+
+{
+    "nome_genero": "K-pop",
+    "descricao": "Pop sul-coreano."
+}
+
+create_album:
+
+{
+    "nome_album": "Chromakopia",
+    "ano_lancamento": 2024,
+    "id_artista": 6,
+    "id_genero": 5
+}
